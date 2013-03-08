@@ -279,258 +279,258 @@ google_ad_height = 250;
 		$options = Options::get_options(); ?>
 
 	<div class="wrap">
-		<h2>主题选项（M2）<a class="add-new-h2" href="http://www.mangguo.org/" target="_blank">芒果小站</a></h2>
+	<h2>主题选项（M2）<a class="add-new-h2" href="http://www.mangguo.org/" target="_blank">芒果小站</a></h2>
 
-		<div class="metabox-holder has-right-sidebar">
-			<div class="inner-sidebar">
-				<div class="meta-box-sortabless ui-sortable">
-					<div class="postbox">
-						<h3 class="hndle"><span>美国主机推荐</span></h3>
+	<div class="metabox-holder has-right-sidebar">
+	<div class="inner-sidebar">
+		<div class="meta-box-sortabless ui-sortable">
+			<div class="postbox">
+				<h3 class="hndle"><span>美国主机推荐</span></h3>
 
-						<div class="inside">
-							<table class="hosting" style="width:100%;">
-								<tr id="bluehost">
-									<td class="web-hosting" align="center">
-										<a target="_blank" href="http://www.bluehost.com/track/mangguo"><img
-												alt="BlueHost"
-												src="http://img04.taobaocdn.com/tps/i4/T1qFYwXi8cXXcmPIvc-150-35.png"></a>
-									</td>
-								</tr>
-								<tr id="hostmonster">
-									<td class="web-hosting" align="center">
-										<a target="_blank" href="http://www.hostmonster.com/track/mangguo"><img
-												alt="HostMonster"
-												src="http://img03.taobaocdn.com/tps/i3/T1dVYvXolnXXcmPIvc-150-35.png"></a>
-									</td>
-								</tr>
-								<tr id="justhost">
-									<td class="web-hosting" align="center">
-										<a target="_blank"
-										   href="http://stats.justhost.com/track?c38717e2731a3cc908b64aadd428b8aba"><img
-												alt="JustHost"
-												src="http://img02.taobaocdn.com/tps/i2/T1vWfwXaXcXXcmPIvc-150-35.png"></a>
-									</td>
-								</tr>
-								<tr id="hostgator">
-									<td class="web-hosting" align="center">
-										<a target="_blank"
-										   href="http://secure.hostgator.com/cgi-bin/affiliates/clickthru.cgi?id=mangguo"><img
-												alt="HostGator"
-												src="http://img02.taobaocdn.com/tps/i2/T1fYvvXgdnXXcmPIvc-150-35.png"></a>
-									</td>
-								</tr>
-								<tr id="hawkhost">
-									<td class="web-hosting" align="center">
-										<a target="_blank" href="https://my.hawkhost.com/aff.php?aff=3100"><img
-												alt="HawkHost"
-												src="http://img02.taobaocdn.com/tps/i2/T1Yj6vXodgXXcmPIvc-150-35.png"></a>
-									</td>
-								</tr>
-								<tr id="lunarpages">
-									<td class="web-hosting" align="center">
-										<a target="_blank" href="http://www.lunarpages.com/id/mangguo"><img
-												alt="LunarPages"
-												src="http://img03.taobaocdn.com/tps/i3/T1wXrwXjJbXXcmPIvc-150-35.png"></a>
-									</td>
-								</tr>
-								<tr id="ixwebhosting">
-									<td class="web-hosting" align="center">
-										<a target="_blank"
-										   href="http://www.ixwebhosting.com/templates/ix/v2/affiliate/clickthru.cgi?id=mangguo"><img
-												alt="IXWebHosting"
-												src="http://img01.taobaocdn.com/tps/i1/T1zx6tXldlXXcmPIvc-150-35.png"></a>
-									</td>
-								</tr>
-								<tr id="site5">
-									<td class="web-hosting" align="center">
-										<a target="_blank" href="http://www.site5.com/in.php?id=85885"><img alt="Site5"
-										                                                                    src="http://img03.taobaocdn.com/tps/i3/T1zlntXeBoXXcmPIvc-150-35.png"></a>
-									</td>
-								</tr>
-								<tr id="dreamhost">
-									<td class="web-hosting" align="center">
-										<a target="_blank" href="http://www.dreamhost.com/r.cgi?674076"><img
-												alt="DreamHost"
-												src="http://img04.taobaocdn.com/tps/i4/T1rRvuXahfXXcmPIvc-150-35.png"></a>
-									</td>
-								</tr>
-								<tr id="godaddy">
-									<td class="web-hosting" align="center">
-										<a target="_blank"
-										   href="http://affiliate.godaddy.com/redirect/95B163F64AA934DC393CB79E3EF3602108CE0DCCF913CA81DECFD2130290BC91/?r=mangguo"><img
-												alt="Godaddy"
-												src="http://img01.taobaocdn.com/tps/i1/T1pnTvXaFdXXcmPIvc-150-35.png"></a>
-									</td>
-								</tr>
-							</table>
-						</div>
-					</div>
+				<div class="inside">
+					<table class="hosting" style="width:100%;">
+						<tr id="bluehost">
+							<td class="web-hosting" align="center">
+								<a target="_blank" href="http://www.bluehost.com/track/mangguo"><img
+										alt="BlueHost"
+										src="http://img04.taobaocdn.com/tps/i4/T1qFYwXi8cXXcmPIvc-150-35.png"></a>
+							</td>
+						</tr>
+						<tr id="hostmonster">
+							<td class="web-hosting" align="center">
+								<a target="_blank" href="http://www.hostmonster.com/track/mangguo"><img
+										alt="HostMonster"
+										src="http://img03.taobaocdn.com/tps/i3/T1dVYvXolnXXcmPIvc-150-35.png"></a>
+							</td>
+						</tr>
+						<tr id="justhost">
+							<td class="web-hosting" align="center">
+								<a target="_blank"
+								   href="http://stats.justhost.com/track?c38717e2731a3cc908b64aadd428b8aba"><img
+										alt="JustHost"
+										src="http://img02.taobaocdn.com/tps/i2/T1vWfwXaXcXXcmPIvc-150-35.png"></a>
+							</td>
+						</tr>
+						<tr id="hostgator">
+							<td class="web-hosting" align="center">
+								<a target="_blank"
+								   href="http://secure.hostgator.com/cgi-bin/affiliates/clickthru.cgi?id=mangguo"><img
+										alt="HostGator"
+										src="http://img02.taobaocdn.com/tps/i2/T1fYvvXgdnXXcmPIvc-150-35.png"></a>
+							</td>
+						</tr>
+						<tr id="hawkhost">
+							<td class="web-hosting" align="center">
+								<a target="_blank" href="https://my.hawkhost.com/aff.php?aff=3100"><img
+										alt="HawkHost"
+										src="http://img02.taobaocdn.com/tps/i2/T1Yj6vXodgXXcmPIvc-150-35.png"></a>
+							</td>
+						</tr>
+						<tr id="lunarpages">
+							<td class="web-hosting" align="center">
+								<a target="_blank" href="http://www.lunarpages.com/id/mangguo"><img
+										alt="LunarPages"
+										src="http://img03.taobaocdn.com/tps/i3/T1wXrwXjJbXXcmPIvc-150-35.png"></a>
+							</td>
+						</tr>
+						<tr id="ixwebhosting">
+							<td class="web-hosting" align="center">
+								<a target="_blank"
+								   href="http://www.ixwebhosting.com/templates/ix/v2/affiliate/clickthru.cgi?id=mangguo"><img
+										alt="IXWebHosting"
+										src="http://img01.taobaocdn.com/tps/i1/T1zx6tXldlXXcmPIvc-150-35.png"></a>
+							</td>
+						</tr>
+						<tr id="site5">
+							<td class="web-hosting" align="center">
+								<a target="_blank" href="http://www.site5.com/in.php?id=85885"><img alt="Site5"
+								                                                                    src="http://img03.taobaocdn.com/tps/i3/T1zlntXeBoXXcmPIvc-150-35.png"></a>
+							</td>
+						</tr>
+						<tr id="dreamhost">
+							<td class="web-hosting" align="center">
+								<a target="_blank" href="http://www.dreamhost.com/r.cgi?674076"><img
+										alt="DreamHost"
+										src="http://img04.taobaocdn.com/tps/i4/T1rRvuXahfXXcmPIvc-150-35.png"></a>
+							</td>
+						</tr>
+						<tr id="godaddy">
+							<td class="web-hosting" align="center">
+								<a target="_blank"
+								   href="http://affiliate.godaddy.com/redirect/95B163F64AA934DC393CB79E3EF3602108CE0DCCF913CA81DECFD2130290BC91/?r=mangguo"><img
+										alt="Godaddy"
+										src="http://img01.taobaocdn.com/tps/i1/T1pnTvXaFdXXcmPIvc-150-35.png"></a>
+							</td>
+						</tr>
+					</table>
 				</div>
 			</div>
-			<form method="post" name="options_form">
-				<div class="has-sidebar">
-					<div class="has-sidebar-content" id="post-body-content">
-						<div class="meta-box-sortabless">
-							<div class="postbox">
-								<h3 class="hndle"><span>基本设置</span></h3>
+		</div>
+	</div>
+	<form method="post" name="options_form">
+		<div class="has-sidebar">
+			<div class="has-sidebar-content" id="post-body-content">
+				<div class="meta-box-sortabless">
+					<div class="postbox">
+						<h3 class="hndle"><span>基本设置</span></h3>
 
-								<div class="inside">
-									<ul>
-										<li>页面宽度：
-											<input type="text" name="page_width" class="small-text"
-										                value="<?php echo $options['page_width']; ?>">（示例：960px 或
-											95%，默认为 990px）
-										</li>
-										<li>
-											固定链接：
-											<select name="permalink" style="vertical-align:inherit;">
-												<?php $terms = get_terms('link_category'); foreach ($terms as $v) : ?>
-												<option value="<?php echo $v->term_id; ?>" <?php if ($options['permalink'] === $v->term_id) echo ' selected="selected"' ?>><?php echo $v->name; ?></option>
-												<?php endforeach; ?>
-											</select>
-											（选择默认使用的固定链接分类）
-										</li>
-										<li>
-											资源合并：
-											<label style="vertical-align:inherit;"><input type="checkbox"
-											                                              name="minify"<?php if ($options['minify']) echo ' checked="checked"'; ?>>&nbsp;选择启用</label>
-											（使用 <a
-												href="http://www.mangguo.org/minify-merge-compress-javascript-and-css-file/"
-												target="_blank">minify</a> 方案合并加载多个 css 和 js 文件，有效提升访问速度，<span
-												style="color:red">强烈建议开启</span>）
-										</li>
-									</ul>
-								</div>
-							</div>
-							<div class="postbox">
-								<h3 class="hndle"><span>轮播广告设置</span></h3>
-
-								<div class="inside link-box">
-									<table width="100%" cellspacing="3" cellpadding="3">
-										<tr>
-											<th scope="col">标题</th>
-											<th scope="col">描述</th>
-											<th scope="col">链接</th>
-											<th scope="col">操作</th>
-										</tr>
-										<?php foreach ($options['slide_links'] as $v) : ?>
-										<tr class="alternate">
-											<td><input type="text" name="slide_name[]" value="<?php echo $v[0]; ?>"
-											           style="width:100%;"></td>
-											<td><input type="text" name="slide_desc[]" value="<?php echo $v[1]; ?>"
-											           style="width:100%;"></td>
-											<td><input type="text" name="slide_url[]" value="<?php echo $v[2]; ?>"
-											           style="width:100%;"></td>
-											<td style="text-align:center;"><a class="del-link"
-											                                  href="javascript:;">删除</a></td>
-										</tr>
+						<div class="inside">
+							<ul>
+								<li>页面宽度：
+									<input type="text" name="page_width" class="small-text"
+									       value="<?php echo $options['page_width']; ?>">（示例：960px 或
+									95%，默认为 990px）
+								</li>
+								<li>
+									固定链接：
+									<select name="permalink" style="vertical-align:inherit;">
+										<?php $terms = get_terms('link_category'); foreach ($terms as $v) : ?>
+										<option value="<?php echo $v->term_id; ?>" <?php if ($options['permalink'] === $v->term_id) echo ' selected="selected"' ?>><?php echo $v->name; ?></option>
 										<?php endforeach; ?>
-									</table>
-									<a class="add-link" href="javascript:;" data-type="slide">增加一个新的链接</a>
-								</div>
-							</div>
-							<div class="postbox">
-								<h3 class="hndle"><span>文字广告设置</span></h3>
-
-								<div class="inside link-box">
-									<table width="100%" cellspacing="3" cellpadding="3">
-										<tr>
-											<th scope="col">标题</th>
-											<th scope="col">颜色（示例：#FF0000）</th>
-											<th scope="col">链接</th>
-											<th scope="col">操作</th>
-										</tr>
-										<?php foreach ($options['text_links'] as $v) : ?>
-										<tr class="alternate">
-											<td><input type="text" name="text_name[]" value="<?php echo $v[0]; ?>"
-											           style="width:100%;"></td>
-											<td><input type="text" name="text_desc[]" value="<?php echo $v[1]; ?>"
-											           style="width:100%;"></td>
-											<td><input type="text" name="text_url[]" value="<?php echo $v[2]; ?>"
-											           style="width:100%;"></td>
-											<td style="text-align:center;"><a class="del-link"
-											                                  href="javascript:;">删除</a></td>
-										</tr>
-										<?php endforeach; ?>
-									</table>
-									<a class="add-link" href="javascript:;" data-type="text">增加一个新的链接</a>
-								</div>
-							</div>
-							<div class="postbox">
-								<h3 class="hndle"><span>文章前置广告设置</span></h3>
-
-								<div class="inside">
-									<ul>
-										<li>
-											是否启用：
-											<label style="vertical-align:inherit;"><input type="checkbox"
-											                                              name="a1_active"<?php if ($options['article_a1']['active']) echo ' checked="checked"'; ?>>&nbsp;选择启用</label>
-											（大小：300x250 像素）
-										</li>
-									</ul>
-									<textarea style="width:100%;height:80px;resize:vertical;"
-									          name="a1_content"><?php echo $options['article_a1']['content']; ?></textarea>
-								</div>
-							</div>
-							<div class="postbox">
-								<h3 class="hndle"><span>文章后置广告设置</span></h3>
-
-								<div class="inside">
-									<ul>
-										<li>
-											是否启用：
-											<label style="vertical-align:inherit;"><input type="checkbox"
-											                                              name="a2_active"<?php if ($options['article_a2']['active']) echo ' checked="checked"'; ?>>&nbsp;选择启用</label>
-											（大小：300x250 像素）
-										</li>
-									</ul>
-									<textarea style="width:100%;height:80px;resize:vertical;"
-									          name="a2_content"><?php echo $options['article_a2']['content']; ?></textarea>
-								</div>
-							</div>
-							<div class="postbox">
-								<h3 class="hndle"><span>侧栏广告设置</span></h3>
-
-								<div class="inside">
-									<ul>
-										<li>
-											显示范围：
-											<label style="vertical-align:inherit;"><input type="checkbox"
-											                                              name="a3_home"<?php if ($options['sidebar_a3']['home']) echo ' checked="checked"'; ?>>&nbsp;首页</label>
-											<label style="vertical-align:inherit;"><input type="checkbox"
-											                                              name="a3_single"<?php if ($options['sidebar_a3']['single']) echo ' checked="checked"'; ?>>&nbsp;内页</label>
-											（宽度：250 像素）
-										</li>
-									</ul>
-									<textarea style="width:100%;height:80px;resize:vertical;"
-									          name="a3_content"><?php echo $options['sidebar_a3']['content']; ?></textarea>
-								</div>
-							</div>
-							<div class="postbox">
-								<h3 class="hndle"><span>统计代码</span></h3>
-
-								<div class="inside">
-									<ul>
-										<li>
-											是否启用：
-											<label style="vertical-align:inherit;"><input type="checkbox"
-											                                              name="analytics_active"<?php if ($options['analytics']['active']) echo ' checked="checked"'; ?>>&nbsp;选择启用</label>
-										</li>
-									</ul>
-									<textarea style="width:100%;height:80px;resize:vertical;"
-									          name="analytics_content"><?php echo $options['analytics']['content']; ?></textarea>
-								</div>
-							</div>
+									</select>
+									（选择默认使用的固定链接分类）
+								</li>
+								<li>
+									资源合并：
+									<label style="vertical-align:inherit;"><input type="checkbox"
+									                                              name="minify"<?php if ($options['minify']) echo ' checked="checked"'; ?>>&nbsp;选择启用</label>
+									（使用 <a
+										href="http://www.mangguo.org/minify-merge-compress-javascript-and-css-file/"
+										target="_blank">minify</a> 方案合并加载多个 css 和 js 文件，有效提升访问速度，<span
+										style="color:red">强烈建议开启</span>）
+								</li>
+							</ul>
 						</div>
-						<div>
-							<p class="submit">
-								<input type="submit" name="options_save" class="button-primary" value="更新设置">
-							</p>
+					</div>
+					<div class="postbox">
+						<h3 class="hndle"><span>轮播广告设置</span></h3>
+
+						<div class="inside link-box">
+							<table width="100%" cellspacing="3" cellpadding="3">
+								<tr>
+									<th scope="col">标题</th>
+									<th scope="col">描述</th>
+									<th scope="col">链接</th>
+									<th scope="col">操作</th>
+								</tr>
+								<?php foreach ($options['slide_links'] as $v) : ?>
+								<tr class="alternate">
+									<td><input type="text" name="slide_name[]" value="<?php echo $v[0]; ?>"
+									           style="width:100%;"></td>
+									<td><input type="text" name="slide_desc[]" value="<?php echo $v[1]; ?>"
+									           style="width:100%;"></td>
+									<td><input type="text" name="slide_url[]" value="<?php echo $v[2]; ?>"
+									           style="width:100%;"></td>
+									<td style="text-align:center;"><a class="del-link"
+									                                  href="javascript:;">删除</a></td>
+								</tr>
+								<?php endforeach; ?>
+							</table>
+							<a class="add-link" href="javascript:;" data-type="slide">增加一个新的链接</a>
+						</div>
+					</div>
+					<div class="postbox">
+						<h3 class="hndle"><span>文字广告设置</span></h3>
+
+						<div class="inside link-box">
+							<table width="100%" cellspacing="3" cellpadding="3">
+								<tr>
+									<th scope="col">标题</th>
+									<th scope="col">颜色（示例：#FF0000）</th>
+									<th scope="col">链接</th>
+									<th scope="col">操作</th>
+								</tr>
+								<?php foreach ($options['text_links'] as $v) : ?>
+								<tr class="alternate">
+									<td><input type="text" name="text_name[]" value="<?php echo $v[0]; ?>"
+									           style="width:100%;"></td>
+									<td><input type="text" name="text_desc[]" value="<?php echo $v[1]; ?>"
+									           style="width:100%;"></td>
+									<td><input type="text" name="text_url[]" value="<?php echo $v[2]; ?>"
+									           style="width:100%;"></td>
+									<td style="text-align:center;"><a class="del-link"
+									                                  href="javascript:;">删除</a></td>
+								</tr>
+								<?php endforeach; ?>
+							</table>
+							<a class="add-link" href="javascript:;" data-type="text">增加一个新的链接</a>
+						</div>
+					</div>
+					<div class="postbox">
+						<h3 class="hndle"><span>文章前置广告设置</span></h3>
+
+						<div class="inside">
+							<ul>
+								<li>
+									是否启用：
+									<label style="vertical-align:inherit;"><input type="checkbox"
+									                                              name="a1_active"<?php if ($options['article_a1']['active']) echo ' checked="checked"'; ?>>&nbsp;选择启用</label>
+									（大小：300x250 像素）
+								</li>
+							</ul>
+							<textarea style="width:100%;height:80px;resize:vertical;"
+							          name="a1_content"><?php echo $options['article_a1']['content']; ?></textarea>
+						</div>
+					</div>
+					<div class="postbox">
+						<h3 class="hndle"><span>文章后置广告设置</span></h3>
+
+						<div class="inside">
+							<ul>
+								<li>
+									是否启用：
+									<label style="vertical-align:inherit;"><input type="checkbox"
+									                                              name="a2_active"<?php if ($options['article_a2']['active']) echo ' checked="checked"'; ?>>&nbsp;选择启用</label>
+									（大小：300x250 像素）
+								</li>
+							</ul>
+							<textarea style="width:100%;height:80px;resize:vertical;"
+							          name="a2_content"><?php echo $options['article_a2']['content']; ?></textarea>
+						</div>
+					</div>
+					<div class="postbox">
+						<h3 class="hndle"><span>侧栏广告设置</span></h3>
+
+						<div class="inside">
+							<ul>
+								<li>
+									显示范围：
+									<label style="vertical-align:inherit;"><input type="checkbox"
+									                                              name="a3_home"<?php if ($options['sidebar_a3']['home']) echo ' checked="checked"'; ?>>&nbsp;首页</label>
+									<label style="vertical-align:inherit;"><input type="checkbox"
+									                                              name="a3_single"<?php if ($options['sidebar_a3']['single']) echo ' checked="checked"'; ?>>&nbsp;内页</label>
+									（宽度：250 像素）
+								</li>
+							</ul>
+							<textarea style="width:100%;height:80px;resize:vertical;"
+							          name="a3_content"><?php echo $options['sidebar_a3']['content']; ?></textarea>
+						</div>
+					</div>
+					<div class="postbox">
+						<h3 class="hndle"><span>统计代码</span></h3>
+
+						<div class="inside">
+							<ul>
+								<li>
+									是否启用：
+									<label style="vertical-align:inherit;"><input type="checkbox"
+									                                              name="analytics_active"<?php if ($options['analytics']['active']) echo ' checked="checked"'; ?>>&nbsp;选择启用</label>
+								</li>
+							</ul>
+							<textarea style="width:100%;height:80px;resize:vertical;"
+							          name="analytics_content"><?php echo $options['analytics']['content']; ?></textarea>
 						</div>
 					</div>
 				</div>
-			</form>
+				<div>
+					<p class="submit">
+						<input type="submit" name="options_save" class="button-primary" value="更新设置">
+					</p>
+				</div>
+			</div>
 		</div>
+	</form>
+	</div>
 	</div>
 	<script>
 		(function ($) {

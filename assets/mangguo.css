@@ -1,7 +1,9 @@
 /**
+ * mangguo.css
  * @author tinyhill@163.com
  */
-/*************** global ***************/
+
+/** global */
 body {
 	font: 12px/1.5 arial;
 	-webkit-text-size-adjust: none;
@@ -36,10 +38,10 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 }
 
 .clearfix {
-	zoom: 1;
+	*zoom: 1;
 }
 
-.header, .content, .footer {
+.page {
 	width: 990px;
 	min-width: 990px;
 	margin: 0 auto;
@@ -53,7 +55,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	display: none;
 }
 
-/*************** header ***************/
+/* header */
 .header {
 	padding-top: 15px;
 	height: 45px;
@@ -126,7 +128,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	text-decoration: none;
 }
 
-/*************** slide ***************/
+/* slide */
 .slide {
 	background: #3975ce;
 	color: #fff;
@@ -221,7 +223,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	background-position: 100% -26px;
 }
 
-/*************** search ***************/
+/* search */
 .search {
 	background: #EAEAEA;
 	height: 31px;
@@ -291,7 +293,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	vertical-align: middle;
 }
 
-/*************** tab ***************/
+/* tab */
 .tab {
 	border-bottom: 5px solid #3975CE;
 	zoom: 1;
@@ -329,7 +331,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	box-shadow: none;
 }
 
-/*************** quick-link ***************/
+/* quick-link */
 .quick-link {
 	border-bottom: 3px solid #D5D5D5;
 	padding-bottom: 10px;
@@ -399,7 +401,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	font-weight: bold;
 }
 
-/*************** grid-m0s5 ***************/
+/* grid-m0s5 */
 .grid-m0s5 {
 	margin-bottom: 15px;
 }
@@ -606,7 +608,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	text-shadow: none;
 }
 
-/*************** sidebar ***************/
+/* sidebar */
 .sidebar .hd {
 	background: #EAEAEA;
 	color: #333;
@@ -648,7 +650,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	float: right;
 }
 
-/*************** footer ***************/
+/* footer **/
 .footer {
 	padding-bottom: 20px;
 }
@@ -705,7 +707,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	text-align: center;
 }
 
-/*************** adsense ***************/
+/* adsense */
 .google {
 	position: relative;
 	width: 310px;
@@ -737,7 +739,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	left: -130px;
 }
 
-/*************** text ***************/
+/* text */
 .text {
 	font-size: 13px;
 	padding: 5px 0;
@@ -833,7 +835,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	font-weight: bold;
 }
 
-/*************** creative-commons ***************/
+/* creative-commons */
 .creative-commons {
 	margin-bottom: 10px;
 }
@@ -850,7 +852,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	padding: 5px 10px;
 }
 
-/*************** sibling-posts ***************/
+/* sibling-posts */
 .sibling-posts {
 	margin-bottom: 15px;
 }
@@ -864,7 +866,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	margin-right: 8px;
 }
 
-/*************** feed-me ***************/
+/* feed-me */
 .feed-me {
 	margin-bottom: 18px;
 	border: 1px solid #FF8E42;
@@ -879,7 +881,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	margin: 0 5px;
 }
 
-/*************** comment ***************/
+/* comment */
 .comment h3 {
 	font-weight: bold;
 }
@@ -962,7 +964,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	text-shadow: 1px 1px 0 #999;
 }
 
-/*************** comment-form ***************/
+/* comment-form */
 .comment-form {
 	padding-top: 13px;
 }
@@ -1045,7 +1047,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	background: -moz-linear-gradient(top, #FAFAFA, #F1F1F1);
 }
 
-/*************** scroll-top ***************/
+/* scroll-top */
 .scroll-top {
 	width: 18px;
 	line-height: 1.231;
@@ -1062,7 +1064,7 @@ a, a:hover, input, input:focus, textarea, textarea:focus {
 	_top: expression(eval(document.documentElement.scrollTop + document.documentElement.clientHeight-this.offsetHeight - (parseInt(this.currentStyle.marginTop, 10) || 0) - (parseInt(this.currentStyle.marginBottom, 10) || 0)) - 100);
 }
 
-/*************** hosting ***************/
+/* hosting */
 .hosting {
 	border-collapse: collapse;
 	border-spacing: 0;

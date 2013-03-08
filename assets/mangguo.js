@@ -1,6 +1,6 @@
 /**
+ * mangguo.js
  * @author tinyhill@163.com
- * @file mangguo.js
  */
 (function () {
 
@@ -14,7 +14,7 @@
 		 * 轮播切换
 		 * @method slide
 		 */
-		slide : function () {
+		slide: function () {
 
 			//圆点切换
 			$('.slide-nav li').click(function (e) {
@@ -90,7 +90,7 @@
 		 * 收缩展开
 		 * @method slideToggle
 		 */
-		slideToggle : function () {
+		slideToggle: function () {
 
 			$('#slide-toggle .toggle').click(function (e) {
 
@@ -133,7 +133,7 @@
 		 * 回到顶部
 		 * @method scrollTop
 		 */
-		scrollTop : function () {
+		scrollTop: function () {
 
 			var target = $('<div id="scroll-top" class="scroll-top">返回顶部</div>'),
 				target = target.appendTo($('body'));
@@ -163,7 +163,7 @@
 		 * 评论回应
 		 * @method reply
 		 */
-		replyTo : function () {
+		replyTo: function () {
 
 			$('.comment-list dl').delegate('.reply-to', 'click', function (e) {
 
@@ -194,7 +194,7 @@
 		 * 修改用户资料
 		 * @method authorToggle
 		 */
-		authorToggle : function () {
+		authorToggle: function () {
 
 			$('#author-toggle').toggle(
 
@@ -212,7 +212,7 @@
 		 * 初始化入口
 		 * @method init
 		 */
-		init : function () {
+		init: function () {
 
 			//初始化轮播切换
 			this.slide();
