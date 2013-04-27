@@ -6,9 +6,9 @@
 
 	/**
 	 * 定义全局命名空间
-	 * @type {Object} Mangguo
+	 * @type {Object} mangguo
 	 */
-	var Mangguo = {
+	var mangguo = {
 
 		/**
 		 * 轮播切换
@@ -16,7 +16,7 @@
 		 */
 		slide: function () {
 
-			//圆点切换
+			// 圆点切换
 			$('.slide-nav li').click(function (e) {
 
 				var idx = $(e.currentTarget).text();
@@ -31,16 +31,16 @@
 
 			});
 
-			//翻页切换
+			// 翻页切换
 			$('#slide .prev, #slide .next').click(function (e) {
 
 				var trigger = $(e.currentTarget),
 					target = $('.slide-content li:visible');
 
-				//隐藏当前页
+				// 隐藏当前页
 				target.hide();
 
-				//前翻页
+				// 前翻页
 				if (trigger.hasClass('prev')) {
 
 					var prev = target.prev();
@@ -52,7 +52,7 @@
 					}
 				}
 
-				//后翻页
+				// 后翻页
 				if (trigger.hasClass('next')) {
 
 					var next = target.next();
@@ -66,7 +66,7 @@
 
 			});
 
-			//自动播放
+			// 自动播放
 			var duration = 5000,
 				timeout = setTimeout(autoplay, duration);
 
@@ -120,7 +120,7 @@
 						$(this).addClass('slide-mini');
 					});
 
-					//将模式写入cookie值
+					// 将模式写入 cookie 值
 					$.cookie('slide_mini', true);
 
 				}
@@ -138,7 +138,7 @@
 			var target = $('<div id="scroll-top" class="scroll-top">返回顶部</div>'),
 				target = target.appendTo($('body'));
 
-			//检查滚动差值
+			// 检查滚动差值
 			function checkTop () {
 
 				if ($(window).scrollTop() > 200) {
@@ -214,26 +214,26 @@
 		 */
 		init: function () {
 
-			//初始化轮播切换
+			// 初始化轮播切换
 			this.slide();
 
-			//初始化收缩展开
+			// 初始化收缩展开
 			this.slideToggle();
 
-			//初始化回到顶部
+			// 初始化回到顶部
 			this.scrollTop();
 
-			//初始化评论回应
+			// 初始化评论回应
 			this.replyTo();
 
-			//初始化修改资料
+			// 初始化修改资料
 			this.authorToggle();
 
 		}
 
 	};
 
-	//执行初始化
-	Mangguo.init();
+	// 执行初始化
+	mangguo.init();
 
 })();
